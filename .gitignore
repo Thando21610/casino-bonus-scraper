@@ -1,0 +1,10 @@
+.env
+.venv/
+__pycache__/
+output/
+*.pyc
+.DS_Store
+site/node_modules/
+site/.nuxt/
+site/.output/
+site/dist/
