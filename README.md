@@ -6,7 +6,7 @@ mobile-friendly page.
 
 ## Live page
 
-PASTE_YOUR_VERCEL_URL_HERE
+https://casino-bonus-scraper.vercel.app
 
 ## What it does
 
