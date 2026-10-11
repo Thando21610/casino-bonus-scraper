@@ -1,0 +1,23 @@
+[
+  {
+    "casino": "Crown Coins",
+    "welcome_bonus": "100,000 CC + 2 Free SC",
+    "wagering_requirement": null,
+    "minimum_deposit": null,
+    "source_url": "https://www.covers.com/casino/sweepstakes"
+  },
+  {
+    "casino": "LoneStar Casino",
+    "welcome_bonus": "225,000 GC + 52.5 FREE SC + 250 VIP Points",
+    "wagering_requirement": null,
+    "minimum_deposit": "$2.99",
+    "source_url": "https://www.covers.com/casino/sweepstakes"
+  },
+  {
+    "casino": "Stake.us",
+    "welcome_bonus": "Up to 550,000 GC, $55 Stake Cash + 3.5% Rakeback",
+    "wagering_requirement": 3,
+    "minimum_deposit": null,
+    "source_url": "https://www.covers.com/casino/sweepstakes"
+  }
+]

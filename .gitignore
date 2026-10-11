@@ -1,9 +1,14 @@
 .env
 .venv/
 __pycache__/
-output/
 *.pyc
 .DS_Store
+
+# Scraper output - keep bonuses.json
+output/*
+!output/bonuses.json
+
+# Nuxt front end
 site/node_modules/
 site/.nuxt/
 site/.output/
